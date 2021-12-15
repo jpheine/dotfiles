@@ -1,3 +1,3 @@
 # Dotflies
 
-Dotfiles for my shells.
+Configurational files for my shells.
