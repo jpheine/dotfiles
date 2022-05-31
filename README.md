@@ -1,6 +1,6 @@
 # Dotflies
 
-Configurational files for my shells.
+Configurational file for .zsh:
 
 Setup guide for the perfect macos terminal:
 
