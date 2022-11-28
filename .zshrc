@@ -16,5 +16,7 @@ alias .....="cd ../../../.."
 
 alias ll="ls -la -G"
 
+alias flutter="fvm flutter"
+
 #Count lines of code in dart (Flutter) projects
 alias dartlinecount="find . -name '*.dart' -a -not -name '*.*.dart' | grep -v '.dart_tool' | xargs wc -l | sort -n"
